@@ -164,7 +164,7 @@ class SettingScreen : AppCompatActivity(), PopularClickListener {
                     startActivity(
                         Intent(
                             Intent.ACTION_VIEW,
-                            Uri.parse("https://pdfmergeandsplit.blogspot.com/p/privacy-policy.html")
+                            Uri.parse("https://coreelgo.blogspot.com/2022/11/font-design-privacy-policy.html")
                         )
                     )
                 } catch (ex: java.lang.Exception) {
@@ -214,7 +214,7 @@ class SettingScreen : AppCompatActivity(), PopularClickListener {
                         startActivity(
                             Intent(
                                 Intent.ACTION_VIEW, Uri
-                                    .parse("https://play.google.com/store/apps/developer?id=Harris+Shabbir")
+                                    .parse("https://play.google.com/store/apps/dev?id=6545671197280257305")
                             )
                         )
                     } catch (ex: Exception) {

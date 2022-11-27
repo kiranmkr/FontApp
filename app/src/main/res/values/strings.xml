@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FontApp</string>
+    <string name="app_name">Font Designer</string>
     <string name="fonts_for_cricut">Fonts For Cricut</string>
     <string name="search_fonts">Search Fonts</string>
     <string name="image">image</string>
@@ -18,7 +18,7 @@
     <string name="operation">Operation</string>
     <string name="cut">Cut</string>
     <string name="draw">Draw</string>
-    <string name="sign">Sign</string>
+    <string name="sign">Size</string>
     <string name="Size">50</string>
     <string name="pro">Pro</string>
     <string name="continue_with_free_plan">Continue With Free Plan</string>

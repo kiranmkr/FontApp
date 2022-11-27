@@ -98,7 +98,7 @@ object FeedbackUtils {
     fun startFeedbackEmail(context: Context) {
         val intent = Intent(Intent.ACTION_SENDTO)
         intent.data = Uri.parse("mailto:")
-        intent.putExtra(Intent.EXTRA_EMAIL, arrayOf("mahipari6500@gmail.com"))
+        intent.putExtra(Intent.EXTRA_EMAIL, arrayOf("coreelgofeedback@gmail.com"))
         intent.putExtra(Intent.EXTRA_SUBJECT, emailSubject(context))
         intent.putExtra(
             Intent.EXTRA_TEXT,

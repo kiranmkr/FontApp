@@ -5,6 +5,21 @@ plugins {
 
 android {
 
+    signingConfigs {
+        config {
+            storeFile file('D:\\working\\FontApp\\app\\fontapp.jks')
+            keyAlias 'upload'
+            keyPassword 'coreelgo'
+            storePassword 'coreelgo'
+        }
+        debug {
+            storeFile file('D:\\working\\FontApp\\app\\fontapp.jks')
+            keyAlias = 'upload'
+            keyPassword 'coreelgo'
+            storePassword 'coreelgo'
+        }
+    }
+
     compileSdk 32
     buildToolsVersion '30.0.3'
 
@@ -23,10 +38,19 @@ android {
 
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+        debug {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
         }
     }
+
     compileOptions {
         sourceCompatibility "1.8"
         targetCompatibility "1.8"

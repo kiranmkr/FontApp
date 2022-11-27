@@ -181,7 +181,7 @@
 -keep class org.wysaid.nativePort.** { *; }
 -keep class org.webrtc.** { *; }
 
--keep class com.example.fontsspace.dataModel.** { *; }
+-keep class com.example.fontapp.dataModel.** { *; }
 
 # rename the source files to something meaningless, but it must be retained
 

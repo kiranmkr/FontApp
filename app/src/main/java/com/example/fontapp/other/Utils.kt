@@ -45,7 +45,7 @@ object Utils {
     val inAppKeyArray: ArrayList<String> =
         arrayListOf("life_time")
 
-    val subscriptionsKeyArray: ArrayList<String> = arrayListOf("monthly_plan", "yearly_plan")
+    val subscriptionsKeyArray: ArrayList<String> = arrayListOf("weekly_plan","monthly_plan", "yearly_plan")
 
     const val inAppPurchasedkey: String = "life_time"
 
