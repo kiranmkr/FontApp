@@ -20,13 +20,13 @@ object Utils {
     var folderFont = true
     var fontName = ""
 
-   fun getFontFolder(status:Boolean):String{
-       if (status){
-           return "font"
-       }else{
-           return "mono"
-       }
-   }
+    fun getFontFolder(status: Boolean): String {
+        if (status) {
+            return "font"
+        } else {
+            return "mono"
+        }
+    }
 
     val readPermissionPass = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
         arrayOf(
@@ -45,7 +45,8 @@ object Utils {
     val inAppKeyArray: ArrayList<String> =
         arrayListOf("life_time")
 
-    val subscriptionsKeyArray: ArrayList<String> = arrayListOf("weekly_plan","monthly_plan", "yearly_plan")
+    val subscriptionsKeyArray: ArrayList<String> =
+        arrayListOf("weekly_plan", "monthly_plan", "yearly_plan")
 
     const val inAppPurchasedkey: String = "life_time"
 
