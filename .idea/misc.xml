@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/arrow_back_.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/bug_icon.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/card_next.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/feature_icon.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/ic_menu.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/ic_round_close.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/ic_search.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/launcher_screen_with_logo.xml" value="0.201" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/next_icon.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/other_app_icon.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/policy_icon.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/pro_icon.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/rate_us_icon.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/seek_thumb.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/share_icon.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/drawable/terms_icon.xml" value="0.2195" />
+        <entry key="..\:/working/FontApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/working/FontApp/app/src/main/res/layout/activity_new_editing_screen.xml" value="0.4" />
+        <entry key="..\:/working/FontApp/app/src/main/res/layout/activity_pro_screen.xml" value="0.4" />
+        <entry key="..\:/working/FontApp/app/src/main/res/layout/activity_setting_screen.xml" value="0.20833333333333334" />
+        <entry key="..\:/working/FontApp/app/src/main/res/layout/new_bottom_menu_items_layout.xml" value="0.4" />
+        <entry key="..\:/working/FontApp/app/src/main/res/layout/re_font_view.xml" value="0.264" />
+        <entry key="..\:/working/FontApp/app/src/main/res/layout/re_mono_item.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
